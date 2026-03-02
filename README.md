@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Manish9807
-- 👀 I’m interested in java developer
-- 🌱 I’m currently learning full stack java 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me jadhavms1999@gmail.com
+👋 Hi, I’m Manish Jadhav (@Manish9807)
+💻 Java Backend / Full Stack Developer
+📍 Pune, India
 
-<!---
-Manish9807/Manish9807 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 Interested in Java & Spring Boot
+🌱 Currently learning Full Stack Java
+💼 3+ years of experience in backend development
+🤝 Open to collaborating on Java / Spring Boot projects
+📫 Email: jadhavms1999@gmail.com
+🔗 GitHub: https://github.com/Manish9807
